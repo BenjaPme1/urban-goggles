@@ -1,0 +1,22 @@
+{
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2026-07-12 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-07-12 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2026-07-12 21:33:13 +0000",
+      "minecraft:beach": "2026-07-12 21:29:03 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
